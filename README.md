@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Github Profile]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/python-icon.png?token=AWLZ6NORNXD6UJEU6CQMBRLB2HRFO" />][Github Profile]
 [<img align="left" alt="Godot" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/Godot-icon.png?token=AWLZ6NLMTLPXIMVSUODNHCDB2HSEQ" />][Github Profile]
-[<img align="left" alt="Unreal Engine" width="60px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/ue4-icon.png?token=AWLZ6NIUVPBJT56W76QCXCTB2HSHC" />][Github Profile]
+[<img align="left" alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/ue4-icon-v2.png?token=AWLZ6NLM3RQBOXEEPZP62SDB2HUHI" />][Github Profile]
 [<img align="left" alt="Soundcloud" width="28px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/soundcloud-icon.png?token=AWLZ6NKJ5C6HJ6ETAL3ZNFTB2HSII" />][Github Profile]
 [<img align="left" alt="FL Studio" width="35px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/fl-studio-icon.png?token=AWLZ6NOQNW4V4MIZWYOVLCLB2HSKE" />][Github Profile]
 
