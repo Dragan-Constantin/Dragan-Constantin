@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Constantin - aka Ollianels
+## Hi there, I'm Constantin - aka Ollianels 👋
 
 ### I'm a Developper, Engineer and Music Composer!!
   - 🎮 I'm currently working on a video game on PyGame
@@ -35,17 +35,17 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/python-icon.png?token=AWLZ6NORNXD6UJEU6CQMBRLB2HRFO" />]
-[<img align="left" alt="Godot" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/Godot-icon.png?token=AWLZ6NLMTLPXIMVSUODNHCDB2HSEQ" />]
-[<img align="left" alt="Unreal Engine" width="30px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/ue4-icon.png?token=AWLZ6NIUVPBJT56W76QCXCTB2HSHC" />]
-[<img align="left" alt="Soundcloud" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/soundcloud-icon.png?token=AWLZ6NKJ5C6HJ6ETAL3ZNFTB2HSII" />]
-[<img align="left" alt="FL Studio" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/fl-studio-icon.png?token=AWLZ6NOQNW4V4MIZWYOVLCLB2HSKE" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Github Profile]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][Github Profile]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][Github Profile]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Github Profile]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github Profile]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Github Profile]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/python-icon.png?token=AWLZ6NORNXD6UJEU6CQMBRLB2HRFO" />][Github Profile]
+[<img align="left" alt="Godot" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/Godot-icon.png?token=AWLZ6NLMTLPXIMVSUODNHCDB2HSEQ" />][Github Profile]
+[<img align="left" alt="Unreal Engine" width="30px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/ue4-icon.png?token=AWLZ6NIUVPBJT56W76QCXCTB2HSHC" />][Github Profile]
+[<img align="left" alt="Soundcloud" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/soundcloud-icon.png?token=AWLZ6NKJ5C6HJ6ETAL3ZNFTB2HSII" />][Github Profile]
+[<img align="left" alt="FL Studio" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/fl-studio-icon.png?token=AWLZ6NOQNW4V4MIZWYOVLCLB2HSKE" />][Github Profile]
 
 <br />
 <br />
@@ -55,3 +55,4 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/dragan-constantin/
 [vscode]: https://code.visualstudio.com/
 [Python]: https://www.python.org/
+[Github Profile]: https://github.com/Dragan-Constantin
