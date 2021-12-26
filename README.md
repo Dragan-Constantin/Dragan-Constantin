@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/yellow-globe-icon.png?token=AWLZ6NMEYINAOWLP2EODMZ3B2HS5Q" />][website]
 [<img align="left" alt="Constantin Dragan | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/linkedin-icon.png?token=AWLZ6NLON6ACUD43FNOPLSDB2HS7G" />][linkedin]
-[<img align="left" alt="Soundcloud" width="22px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/soundcloud-icon.png?token=AWLZ6NKJ5C6HJ6ETAL3ZNFTB2HSII" />][soundcloud]
+[<img align="left" alt="Soundcloud" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/soundcloud-icon.png?token=AWLZ6NKJ5C6HJ6ETAL3ZNFTB2HSII" />][soundcloud]
 
 <br />
 
