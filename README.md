@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ## Hi there, I'm Constantin - aka Ollianels 👋
 
 ### I'm a Developper, Engineering Student and Music Composer!!
-  - 🎮 ​ ​ I'm currently working on a small video game made with PyGame
-  - 📖 ​ ​ I'm currently learning everything 🤣
+  - 🎮 ​ ​ ​ I'm currently working on a small video game made with PyGame
+  - 📖 ​ ​ ​ I'm currently learning everything 🤣
   - [<img align="left" alt="GitHub Profile" width="22px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/Logo-Efrei-2017-Fr-Web.png?token=AWLZ6NLLF36GHN6ESTTJLHLB2L2XG" />][EFREI]I'm a student at [EFREI Paris][EFREI] (Class of 2026)
-  - ⚡ ​ ​ Fun fact: I'm a musician and music composer for indie games
-  - 🥅 ​ ​ 2022 Goals: Contribute to more soundtracks of indie games
+  - ⚡ ​ ​ ​ Fun fact: I'm a musician and music composer for indie games
+  - 🥅 ​ ​ ​ 2022 Goals: Contribute to more soundtracks of indie games
   - ✒ ​ ​ ​ A quote that marked me: "All the gods, all the heavens, all the hells, are within you" - Joseph Campbell
 
 
