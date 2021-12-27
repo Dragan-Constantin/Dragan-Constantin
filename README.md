@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[website]: https://codeSTACKr.com
+[website]: https://github.com/Dragan-Constantin
+[codeSTACKr website]: https://codeSTACKr.com
 [soundcloud]: https://soundcloud.com/ollianels/
 [linkedin]: https://www.linkedin.com/in/dragan-constantin/
 [vscode]: https://code.visualstudio.com/
