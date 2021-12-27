@@ -18,16 +18,18 @@ Here are some ideas to get you started:
 ## Hi there, I'm Constantin - aka Ollianels 👋
 
 ### I'm a Developper, Engineering Student and Music Composer!!
-  - 🎮 I'm currently working on a video game on PyGame
+  - 🎮 I'm currently working on a small video game made with PyGame
   - 📖 I'm currently learning everything 🤣
-  - 🏫 I'm a student at EFREI Paris (Class of 2026)
+  - [<img align="left" alt="GitHub Profile" width="22px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/Logo-Efrei-2017-Fr-Web.png?token=AWLZ6NLLF36GHN6ESTTJLHLB2L2XG" />] I'm a student at [EFREI Paris][EFREI] (Class of 2026)
   - ⚡ Fun fact: I'm a musician and music composer for indie games
   - 🥅 2022 Goals: Contribute to more soundtracks of indie games
+  - ✒  A quote that marked me: "All the gods, all the heavens, all the hells, are within you" - Joseph Campbell
 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/yellow-globe-icon.png?token=AWLZ6NMEYINAOWLP2EODMZ3B2HS5Q" />][website]
+<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/yellow-globe-icon.png?token=AWLZ6NMEYINAOWLP2EODMZ3B2HS5Q" />][codeSTACKr website] -->
+[<img align="left" alt="GitHub Profile" width="22px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/yellow-globe-icon.png?token=AWLZ6NMEYINAOWLP2EODMZ3B2HS5Q" />][website]
 [<img align="left" alt="Constantin Dragan | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/linkedin-icon.png?token=AWLZ6NLON6ACUD43FNOPLSDB2HS7G" />][linkedin]
 [<img align="left" alt="Soundcloud" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/soundcloud-icon.png?token=AWLZ6NKJ5C6HJ6ETAL3ZNFTB2HSII" />][soundcloud]
 
@@ -57,3 +59,4 @@ Here are some ideas to get you started:
 [vscode]: https://code.visualstudio.com/
 [Python]: https://www.python.org/
 [Github Profile]: https://github.com/Dragan-Constantin
+[EFREI]: https://www.efrei.fr/
