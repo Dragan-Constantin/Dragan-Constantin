@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Constantin - aka Ollianels 👋
 
-### I'm a Developper, Engineer and Music Composer!!
+### I'm a Developper, Engineering Student and Music Composer!!
   - 🎮 I'm currently working on a video game on PyGame
   - 📖 I'm currently learning everything 🤣
   - 🏫 I'm a student at EFREI Paris (Class of 2026)
