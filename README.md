@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3> I'm a Developper, Engineering Student and Music Composer!! </h3>
 <p>
-    <br> &emsp; - &nbsp;🎮 &nbsp;I'm currently working on a small video game made with PyGame
+    &emsp; - &nbsp;🎮 &nbsp;I'm currently working on a small video game made with PyGame
     <br> &emsp; - &nbsp;📖 &nbsp;I'm currently learning everything 🤣
     <br> &emsp; - &nbsp;<img align="center" alt="EFREI" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/Logo-Efrei-2017-Fr-Web.png" /> &nbsp;I'm a student at <a href="https://www.efrei.fr/" target="_blank">EFREI Paris</a> (Class of 2026)
     <br> &emsp; - &nbsp;⚡ &nbsp;Fun fact: I'm a musician and music composer for indie games
