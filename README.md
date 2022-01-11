@@ -34,20 +34,20 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/python-icon.png?token=AWLZ6NORNXD6UJEU6CQMBRLB2HRFO" />
-<img align="left" alt="Pygame" width="36px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/pygame-icon.png?token=AWLZ6NO72I2ANPLO4M6Q52DB2OME4" />
-<img align="left" alt="Godot" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/Godot-icon.png?token=AWLZ6NLMTLPXIMVSUODNHCDB2HSEQ" />
-<img align="left" alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/ue4-icon-v2.png?token=AWLZ6NLM3RQBOXEEPZP62SDB2HUHI" />
-<img align="left" alt="Soundcloud" width="28px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/soundcloud-icon.png?token=AWLZ6NKJ5C6HJ6ETAL3ZNFTB2HSII" />
-<img align="left" alt="FL Studio" width="35px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/fl-studio-icon.png?token=AWLZ6NOQNW4V4MIZWYOVLCLB2HSKE" />
-
+<p>
+<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="center" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/python-icon.png?token=AWLZ6NORNXD6UJEU6CQMBRLB2HRFO" />
+<img align="center" alt="Pygame" width="36px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/pygame-icon.png?token=AWLZ6NO72I2ANPLO4M6Q52DB2OME4" />
+<img align="center" alt="Godot" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/Godot-icon.png?token=AWLZ6NLMTLPXIMVSUODNHCDB2HSEQ" />
+<img align="center" alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/ue4-icon-v2.png?token=AWLZ6NLM3RQBOXEEPZP62SDB2HUHI" />
+<img align="center" alt="Soundcloud" width="28px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/soundcloud-icon.png?token=AWLZ6NKJ5C6HJ6ETAL3ZNFTB2HSII" />
+<img align="center" alt="FL Studio" width="35px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/fl-studio-icon.png?token=AWLZ6NOQNW4V4MIZWYOVLCLB2HSKE" />
+</p>
 <br />
 <br />
 
