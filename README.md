@@ -13,27 +13,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Constantin - aka Ollianels 👋
+<h2> Hi there, I'm Constantin - aka Ollianels 👋 </h2>
 
-### I'm a Developper, Engineering Student and Music Composer!!
-  - 🎮 ​ ​ ​ I'm currently working on a small video game made with PyGame
-  - 📖 ​ ​ ​ I'm currently learning everything 🤣
-  - [<img align="left" alt="GitHub Profile" width="18px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/Logo-Efrei-2017-Fr-Web.png?token=AWLZ6NLLF36GHN6ESTTJLHLB2L2XG" />][EFREI]I'm a student at [EFREI Paris][EFREI] (Class of 2026)
-  - ⚡ ​ ​ ​ Fun fact: I'm a musician and music composer for indie games
-  - 🥅 ​ ​ ​ 2022 Goals: Contribute to more soundtracks of indie games
-  - ✒ ​ ​ ​ A quote that marked me: "All the gods, all the heavens, all the hells, are within you" - Joseph Campbell
+<h3> I'm a Developper, Engineering Student and Music Composer!! </h3>
+<p>
+    <br> &emsp; - &nbsp;🎮 &nbsp;I'm currently working on a small video game made with PyGame
+    <br> &emsp; - &nbsp;📖 &nbsp;I'm currently learning everything 🤣
+    <br> &emsp; - &nbsp;<img align="center" alt="EFREI" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/Logo-Efrei-2017-Fr-Web.png" /> &nbsp;I'm a student at <a href="https://www.efrei.fr/" target="_blank">EFREI Paris</a> (Class of 2026)
+    <br> &emsp; - &nbsp;⚡ &nbsp;Fun fact: I'm a musician and music composer for indie games
+    <br> &emsp; - &nbsp;🥅 &nbsp;2022 Goals: Contribute to more soundtracks of indie games
+    <br> &emsp; - &nbsp; ✒ &nbsp;A quote that marked me: "All the gods, all the heavens, all the hells, are within you" - Joseph Campbell
+</p>
 
 
-### Connect with me:
+<h3>Connect with me:</h3>
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/yellow-globe-icon.png?token=AWLZ6NMEYINAOWLP2EODMZ3B2HS5Q" />][codeSTACKr website] -->
-[<img align="left" alt="GitHub Profile" width="22px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/yellow-globe-icon.png?token=AWLZ6NMEYINAOWLP2EODMZ3B2HS5Q" />][website]
-[<img align="left" alt="Constantin Dragan | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/linkedin-icon.png?token=AWLZ6NLON6ACUD43FNOPLSDB2HS7G" />][linkedin]
-[<img align="left" alt="Soundcloud" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/soundcloud-icon.png?token=AWLZ6NKJ5C6HJ6ETAL3ZNFTB2HSII" />][soundcloud]
-
+<p>
+    <a href="http://constantin-dragan.com" target="_blank">
+        <img align="center" alt="Website" width="22px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/yellow-globe-icon.png" />
+    </a>
+    <a href="https://www.linkedin.com/in/dragan-constantin/" target="_blank">
+        <img align="center" alt="Constantin Dragan | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/linkedin-icon.png?token=AWLZ6NLON6ACUD43FNOPLSDB2HS7G" />
+    </a>
+    <a href="https://soundcloud.com/ollianels/" target="_blank">
+        <img align="center" alt="Soundcloud" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/soundcloud-icon.png?token=AWLZ6NKJ5C6HJ6ETAL3ZNFTB2HSII" />
+    </a>
+</p>
 <br />
 
-### Languages and Tools:
+<h3>Languages and Tools:</h3>
 <p>
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 &nbsp;
