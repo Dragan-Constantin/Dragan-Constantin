@@ -21,36 +21,42 @@ Here are some ideas to get you started:
     <br> &emsp; - &nbsp;📖 &nbsp;I'm currently learning everything 🤣
     <br> &emsp; - &nbsp;<img align="center" alt="EFREI" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/Logo-Efrei-2017-Fr-Web.png" /> &nbsp;I'm a student at <a href="https://www.efrei.fr/" target="_blank">EFREI Paris</a> (Class of 2026)
     <br> &emsp; - &nbsp;⚡ &nbsp;Fun fact: I'm a musician and music composer for indie games
+    <br> &emsp; - &nbsp;💭 &nbsp;I am a polyglote! I speak 4 languages at different levels: &nbsp;
+    <img align="center" alt="English" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/flag-UnitedKingdom.png"> English &nbsp;-&nbsp;
+    <img align="center" alt="French" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/flag-France.png"> French &nbsp;-&nbsp;
+    <img align="center" alt="German" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/flag-Deutschland.png"> German &nbsp;-&nbsp;
+    <img align="center" alt="Romanian" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/flag-Romania.png"> Romanian
     <br> &emsp; - &nbsp;🥅 &nbsp;2022 Goals: Contribute to more soundtracks of indie games
     <br> &emsp; - &nbsp; ✒ &nbsp;A quote that marked me: "All the gods, all the heavens, all the hells, are within you" - Joseph Campbell
 </p>
 
 <h3>Connect with me:</h3>
 <p>
-    &nbsp;
+    &emsp;
     <a href="http://constantin-dragan.com" target="_blank">
         <img align="center" alt="Website" width="22px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/yellow-globe-icon.png" />
     </a>
-    &nbsp;
+    &emsp;
     <a href="https://www.linkedin.com/in/dragan-constantin/" target="_blank">
         <img align="center" alt="Constantin Dragan | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/linkedin-icon.png?token=AWLZ6NLON6ACUD43FNOPLSDB2HS7G" />
     </a>
-    &nbsp;
+    &emsp;
     <a href="https://soundcloud.com/ollianels/" target="_blank">
         <img align="center" alt="Soundcloud" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/soundcloud-icon.png?token=AWLZ6NKJ5C6HJ6ETAL3ZNFTB2HSII" />
     </a>
 </p>
-<br>
+
 
 <h3>Languages and Tools:</h3>
 <p>
+    &emsp;
     <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    &emsp;
+    <img align="center" alt="SQL" width="32px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/sql-icon.png" />
     &nbsp;
-    <img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-    &emsp;
-    <img align="center" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-    &emsp;
-    <img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+    <img align="center" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/mysql-icon.png" />
+    &ensp;
+    <img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/git-icon-v2.png" />
     &emsp;
     <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
     &emsp;
