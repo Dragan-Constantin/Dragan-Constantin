@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h3> I'm a Developper, Engineering Student and Music Composer!! </h3>
 <p>
     &emsp; - &nbsp;🎮 &nbsp;I'm currently working on a small video game made with PyGame
-    <br> &emsp; - &nbsp;📖 &nbsp;I'm currently learning everything 🤣
+    <!--<br> &emsp; - &nbsp;📖 &nbsp;I'm currently learning everything 🤣-->
     <br> &emsp; - &nbsp;&nbsp;<img align="center" alt="EFREI" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/Logo-Efrei-2017-Fr-Web.png" /> &nbsp; I'm a student at <a href="https://www.efrei.fr/" target="_blank">EFREI Paris</a> (Class of 2026)
-    <br> &emsp; - &nbsp;⚡ &nbsp;Fun fact: I'm a musician and music composer for indie games
+    <br> &emsp; - &nbsp;⚡ &nbsp;Fun fact: I'm a musician and music composer <!--for indie games-->
     <br> &emsp; - &nbsp;🥅 &nbsp;2022 Goals: Contribute to more soundtracks of indie games
     <br> &emsp; - &nbsp;✒ &nbsp;A quote that marked me: "All the gods, all the heavens, all the hells, are within you" - Joseph Campbell
     <br> &emsp; - &nbsp;💭 &nbsp;I am a polyglote! I speak 4 languages at different levels: &nbsp;
