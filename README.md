@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hi there, I'm Constantin - aka Ollianels 👋 </h2>
+<h2> Hi there, I'm Constantin - aka CoffeeOverflow 👋 </h2>
 
 <h3> I'm a Developper, Engineering Student and Music Composer!! </h3>
 <p>
