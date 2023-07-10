@@ -1,87 +1,115 @@
-<!-- ### Hi there 👋 -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dragan-Constantin/Dragan-Constantin" alt="Dragan Constantin">    
 
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Constantin%F0%9F%91%8B;aka+CoffeeOverflow+%E2%98%95" alt="Typing SVG" />
+    </a>
+  <!--<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+  </a> -->
+</h1>
+   
+###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+<p align="center">
+  Hi, I'm Constantin Dragan, Computer Engineer & Software Developer from FRANCE
+  <br>
+  <br>
+  👨‍🎓 I'm a student at <a href="https://www.efrei.fr/" target="_blank">EFREI Paris</a>
+  <br>
+  🎹 I'm a musician and music composer.
+  <br>
+  🥅 2023 Goals: Contribute to more soundtracks of indie games
+  <br>
+  📚 I am currently focusing on video game creation and music composing.
+  <br>
+</p>
+
+<hr>
+<h2 align="center">📫 How to reach me 👇</h2><br>
+<p align="center">
+    <a href="https://www.linkedin.com/in/dragan-constantin/">
+        <img src="https://img.shields.io/badge/linkedin-%23008491.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23>
+    </a>
+    <a href="mailto:constantin.dragan@efrei.net">
+        <img src="https://img.shields.io/badge/mail-008491?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=23>
+    </a>
+    <a href="https://soundcloud.com/ollianels/">
+        <img src="https://img.shields.io/badge/soundcloud-008491?style=for-the-badge&logo=soundcloud&logoColor=white" height=23>
+    </a>
+    <a href="https://www.constantin-dragan.com/">
+        <img src="https://img.shields.io/badge/Website%20/%20Portfolio-%23008491.svg?style=for-the-badge&logo=about.me&logoColor=white" height=24>
+    </a>
+<!--     <img src="https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" height=23> -->
+<!--   <a href="https://github.com/Dragan-Constantin/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
+
+
+</p>
+
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
+<p align="center">
+  <img title="C" height="25" src="images/c.svg">
+  <img title="C++" height="25" src="images/cpp.svg"></code>
+  <img title="Problem Solving" height="25" src="images/problemSolving.png">
+  <img title="C#" height="25" src="images/cSharp.svg">
+  <img title="Python" height="25" src="images/python-original.svg">
+  <img title="Numpy" height="25" src="images/numpy.svg">
+  <img title="Pandas" height="30" src="images/pandas-light.svg">
+  <img title="Matplotlib" height="25" src="images/matplotlib.svg">
+<!--   <img title="Seaborn" height="25" src="images/seaborn.svg"> -->
+<!--   <img title="Scikit Learn" height="25" src="images/Scikit_learn.svg"> -->
+  <img title="HTML5" height="25" src="images/html5.svg">
+  <img title="CSS" height="25" src="images/css.svg">
+  <img title="Javascript" height="25" src="images/javascript.svg">
+  <img title="JSON" height="25" src="images/json.svg">
+  <img title="Git" height="25" src="images/git-original.svg">
+  <img title="GitHub" height="25" src="images/github.svg">
+  <img title="Visual Studio Code" height="25" src="images/vscode.png">
+  <img title="SQL" height="25" src="images/sql-icon.png">
+  <img title="MySQL" height="25" src="images/mysql.svg">
+  <img title="Unity 3D" height="25" src="images/unity3d.svg">
+  <img title="Unreal Engine" height="25" src="images/ue4-icon-v2.png">
+  <img title="Godot" height="25" src="images/Godot-icon.png">
+  <img title="FL Studio" height="25" src="images/fl-studio-icon.png">
+  
+<!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
+</p>
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+
+
+<p align="center">
+<a href="https://github.com/Dragan-Constantin/">
+      <img width=325  src="https://github-readme-stats.vercel.app/api?username=Dragan-Constantin&show_icons=true&layout=compact&border_color=045b62&theme=transparent&hide_border=true" />
+ </a>
+</p>
+
+<!--<hr>
+<h2 align="center">💹 Most Popular Repos 💹</h2>
+<br>
+<p align="center">
+<a href="https://github.com/Dragan-Constantin/Learn-Js/">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dragan-Constantin&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+  
+<a href="https://github.com/Dragan-Constantin/Learn-CSS/">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dragan-Constantin&repo=Learn-CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+</p>-->
+
+<hr>
+<p align="center">
+  <a href="https://ko-fi.com/coffeeoverflow" target="_blank" ><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="CoffeeOverflow ko_fi" width="230"></a>
+</p>
 <!--
-**Dragan-Constantin/Dragan-Constantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Dragan-Constantin/Dragan-Constantin" alt="Dragan-Constantin"/>       
+</p>
 -->
-
-<h2> Hi there, I'm Constantin - aka CoffeeOverflow 👋 </h2>
-
-<h3> I'm a Developper, Engineering Student and Music Composer!! </h3>
-<p>
-    &emsp; - &nbsp;🎮 &nbsp;I'm currently working on a small video game using Godot Engine
-    <!--<br> &emsp; - &nbsp;📖 &nbsp;I'm currently learning everything 🤣-->
-    <br> &emsp; - &nbsp;&nbsp;<img align="center" alt="EFREI" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/Logo-Efrei-2017-Fr-Web.png" /> &nbsp; I'm a student at <a href="https://www.efrei.fr/" target="_blank">EFREI Paris</a> (Class of 2027)
-    <br> &emsp; - &nbsp;⚡ &nbsp;Fun fact: I'm a musician and music composer <!--for indie games-->
-    <br> &emsp; - &nbsp;🥅 &nbsp;2022 Goals: Contribute to more soundtracks of indie games
-    <br> &emsp; - &nbsp;✒ &nbsp;A quote that marked me: "All the gods, all the heavens, all the hells, are within you" - Joseph Campbell
-    <br> &emsp; - &nbsp;💭 &nbsp;I am a polyglote! I speak 4 languages at different levels: &nbsp;
-    <img align="center" alt="English" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/flag-UnitedKingdom.png"> English &nbsp;-&nbsp;
-    <img align="center" alt="French" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/flag-France.png"> French &nbsp;-&nbsp;
-    <img align="center" alt="German" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/flag-Deutschland.png"> German &nbsp;-&nbsp;
-    <img align="center" alt="Romanian" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/flag-Romania.png"> Romanian
+<p align="center">
+  <a href="https://www.github.com/Dragan-Constantin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Dragan-Constantin?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
-
-<h3>Connect with me:</h3>
-<p>
-    &emsp;
-    <a href="http://constantin-dragan.com" target="_blank">
-        <img align="center" alt="Website" width="22px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/yellow-globe-icon.png" />
-    </a>
-    &emsp;
-    <a href="https://www.linkedin.com/in/dragan-constantin/" target="_blank">
-        <img align="center" alt="Constantin Dragan | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/linkedin-icon.png?token=AWLZ6NLON6ACUD43FNOPLSDB2HS7G" />
-    </a>
-    &emsp;
-    <a href="https://soundcloud.com/ollianels/" target="_blank">
-        <img align="center" alt="Soundcloud" width="26px" src="https://raw.githubusercontent.com/Dragan-Constantin/myicons/main/soundcloud-icon.png?token=AWLZ6NKJ5C6HJ6ETAL3ZNFTB2HSII" />
-    </a>
-</p>
-
-
-<h3>Languages and Tools:</h3>
-<p>
-    &emsp;
-    <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    &emsp;
-    <img align="center" alt="SQL" width="32px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/sql-icon.png" />
-    &nbsp;
-    <img align="center" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/mysql-icon.png" />
-    &ensp;
-    <img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/git-icon-v2.png" />
-    &emsp;
-    <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-    &emsp;
-    <img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-    &emsp;
-    <img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/python-icon.png" />
-    &emsp;
-    <img align="center" alt="Pygame" width="36px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/pygame-icon.png" />
-    &emsp;
-    <img align="center" alt="Godot" width="26px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/Godot-icon.png" />
-    &emsp;
-    <img align="center" alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/ue4-icon-v2.png" />
-    &emsp;
-    <img align="center" alt="Soundcloud" width="28px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/soundcloud-icon.png" />
-    &emsp;
-    <img align="center" alt="FL Studio" width="35px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/fl-studio-icon.png" />
-</p>
-<br>
-<br>
-
-[website]: http://constantin-dragan.com/
-[codeSTACKr website]: https://codeSTACKr.com
-[soundcloud]: https://soundcloud.com/ollianels/
-[linkedin]: https://www.linkedin.com/in/dragan-constantin/
-[vscode]: https://code.visualstudio.com/
-[Python]: https://www.python.org/
-[Github Profile]: https://github.com/Dragan-Constantin
-[EFREI]: https://www.efrei.fr/
