@@ -13,7 +13,6 @@
 <p align="center">
   Hi, I'm Constantin Dragan, Computer Engineer & Software Developer from FRANCE
   <br>
-  <br>
   👨‍🎓 I'm a student at <a href="https://www.efrei.fr/" target="_blank">EFREI Paris</a>
   <br>
   🎹 I'm a musician and music composer.
