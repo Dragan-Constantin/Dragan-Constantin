@@ -86,18 +86,18 @@
  </a>
 </p>
 
-<!--<hr>
+<hr>
 <h2 align="center">💹 Most Popular Repos 💹</h2>
 <br>
 <p align="center">
-<a href="https://github.com/Dragan-Constantin/Learn-Js/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dragan-Constantin&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
-  
-<a href="https://github.com/Dragan-Constantin/Learn-CSS/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dragan-Constantin&repo=Learn-CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Dragan-Constantin/Tetris-S1-Project/">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dragan-Constantin&repo=Tetris-S1-Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
+<a href="https://github.com/Dragan-Constantin/Transverse-S2-Project/">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dragan-Constantin&repo=Transverse-S2-Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+  
 </p>-->
 
 <hr>
