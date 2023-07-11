@@ -41,7 +41,25 @@
 <!--     <img src="https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" height=23> -->
 <!--   <a href="https://github.com/Dragan-Constantin/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
 
+</p>
 
+<hr>
+<h2 align="center" style="vertical-align:middle;"> <img style="vertical-align:middle;" src="https://avatars.githubusercontent.com/u/134384272?s=200&v=4" alt="Parallel Dream Studio" height="35px"> Parallel Dream Studio </h2><br>
+<p align="center">
+    Parallel Dream Studio, co-founded by myself and <a href="https://github.com/Wedokia/">Maxime Cerruti</a>, also known as Wedokia, is a dynamic video game studio.
+    <br>
+    Our mission is to provide a platform for students to explore their passion for game development while pursuing their studies.
+    <br><br>
+    At Parallel Dream Studio, we strive to create a diverse range of video games, catering to different genres and scales.
+    <br>
+    Our primary goal is to foster a creative environment that encourages students with artistic, engineering, and programming backgrounds to delve into the exciting realm of game creation.
+    <br><br>
+    By combining our academic pursuits with our love for gaming, we aim to empower aspiring developers to unleash their creativity and develop practical skills.
+    <br>
+    Parallel Dream Studio is dedicated to promoting a collaborative and enjoyable experience in the world of video game development.
+    <br>
+    You can find out more on our company GitHub page : <a href="https://github.com/Parallel-Dream-Studio/">Parallel Dream Studio</a>
+    <br><br>
 </p>
 
 <hr>
