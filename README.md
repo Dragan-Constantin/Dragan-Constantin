@@ -21,6 +21,13 @@
   <br>
   📚 I am currently focusing on video game creation and music composing.
   <br>
+  💭 I am a polyglote! I speak 4 languages at different levels:
+  <br>
+    <img align="center" alt="English" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/flag-UnitedKingdom.png"> English &nbsp;-&nbsp;
+    <img align="center" alt="French" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/flag-France.png"> French &nbsp;-&nbsp;
+    <img align="center" alt="German" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/flag-Deutschland.png"> German &nbsp;-&nbsp;
+    <img align="center" alt="Romanian" width="18px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/flag-Romania.png"> Romanian
+  <br>
 </p>
 
 <hr>
@@ -114,7 +121,7 @@
 
 <a href="https://github.com/Dragan-Constantin/Transverse-S2-Project/">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dragan-Constantin&repo=Transverse-S2-Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
+</a>
   
 </p>
 
@@ -128,5 +135,5 @@
 </p>
 -->
 <p align="center">
-  <a href="https://www.github.com/Dragan-Constantin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Dragan-Constantin?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
+  <a href="https://www.github.com/Dragan-Constantin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Dragan-Constantin?style=for-the-badge&color=282b2f&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub followers badge" /></a>
 </p>
