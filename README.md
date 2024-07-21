@@ -51,7 +51,7 @@
 </p>
 
 <hr>
-<h2 align="center" style="vertical-align:middle;"> <img style="vertical-align:middle;" src="https://avatars.githubusercontent.com/u/134384272?s=200&v=4" alt="Parallel Dream Studio" height="35px"> Parallel Dream Studio </h2><br>
+<!-- <h2 align="center" style="vertical-align:middle;"> <img style="vertical-align:middle;" src="https://avatars.githubusercontent.com/u/134384272?s=200&v=4" alt="Parallel Dream Studio" height="35px"> Parallel Dream Studio </h2><br>
 <p align="center">
     Parallel Dream Studio, co-founded by myself and <a href="https://github.com/Wedokia/">Maxime Cerruti</a>, also known as Wedokia, is a dynamic video game studio.
     <br>
@@ -67,7 +67,7 @@
     <br>
     You can find out more on our company GitHub page : <a href="https://github.com/Parallel-Dream-Studio/">Parallel Dream Studio</a>
     <br><br>
-</p>
+</p> -->
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
