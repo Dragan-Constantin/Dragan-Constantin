@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="286" height="116" viewBox="0 0 286 116" role="img" aria-labelledby="title">
+<title id="title">Portfolio: cdragan.me</title>
+<style>
+@font-face{font-family:'cd-body';src:url(data:font/woff;base64,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) format('woff')}
+.f-body{font-family:'cd-body','DM Sans', Arial, sans-serif;letter-spacing:0em}
+@font-face{font-family:'cd-display';src:url(data:font/woff;base64,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) format('woff')}
+.f-display{font-family:'cd-display',Manrope, Arial, sans-serif;letter-spacing:-0.03em}
+
+.a{animation-duration:.7s;animation-timing-function:cubic-bezier(.2,.7,.2,1);animation-fill-mode:both}
+.rise{animation-name:rise}.fade{animation-name:fade}.slide{animation-name:slide}
+.grow-x,.grow-y,.pop{transform-box:fill-box}
+.grow-x{animation-name:grow-x;transform-origin:0 50%}
+.grow-y{animation-name:grow-y;transform-origin:50% 100%}
+.pop{animation-name:pop;transform-origin:50% 50%}
+.draw{animation-name:draw}
+@keyframes rise{from{opacity:0;transform:translateY(12px)}}
+@keyframes fade{from{opacity:0}}
+@keyframes slide{from{opacity:0;transform:translateX(-12px)}}
+@keyframes grow-x{from{transform:scaleX(0)}}
+@keyframes grow-y{from{transform:scaleY(0)}}
+@keyframes pop{from{opacity:0;transform:scale(.4)}}
+@keyframes draw{from{stroke-dashoffset:1}}
+.still{display:none}
+@media (prefers-reduced-motion:reduce){
+  *{animation:none!important}
+  .motion{display:none}
+  .still{display:inline}
+}
+
+</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".6" stop-color="#f7faf9"/><stop offset="1" stop-color="#e4efee"/></linearGradient><clipPath id="clip"><rect width="286" height="116" rx="14"/></clipPath></defs>
+<g clip-path="url(#clip)">
+<rect width="286" height="116" fill="url(#bg)"/>
+<rect width="286" height="3" fill="#76d8d9" class="a grow-x" style="animation-delay:0.90s;animation-duration:0.8s"/>
+<g class="a pop" style="animation-delay:0.80s;animation-duration:0.6s"><rect x="20" y="36" width="44" height="44" rx="12" fill="#eaf6f4" stroke="#17343b1f"/><g transform="translate(31.0 47.0) scale(0.917)" fill="none" stroke="#216573" stroke-width="1.96" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></g></g>
+<text x="80.0" y="55.0" font-size="18" fill="#17343b" text-anchor="start" class="f-display a rise" style="animation-delay:0.92s">Portfolio</text>
+<text x="80.0" y="78.0" font-size="12.5" fill="#47727a" text-anchor="start" class="f-body a rise" style="animation-delay:1.02s">cdragan.me</text>
+<g class="a slide" style="animation-delay:1.15s"><g transform="translate(246.0 39.0) scale(0.833)" fill="none" stroke="#216573" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></g></g>
+</g>
+<rect x=".5" y=".5" width="285" height="115" rx="14" fill="none" stroke="#17343b1f"/>
+</svg>
